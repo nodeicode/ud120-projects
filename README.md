@@ -1,4 +1,4 @@
 ud120-projects
 ==============
 
-Starter project code for students taking Udacity ud120
+Gonna Finsih This in 3 months and a cool project coming!!
